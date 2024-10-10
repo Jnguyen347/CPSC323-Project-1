@@ -2,7 +2,6 @@
 
 # CPSC 323: Project #1
 This is my repository for CPSC 323 (Compilers): Project #1.
-This assignment is due: Thursday, October 10th.
 
 In the Main.cpp file, on this line here:
 - **std::fstream inputFile("[INSERT TXT FILE NAME HERE.txt");**

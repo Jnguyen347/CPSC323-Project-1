@@ -13,8 +13,8 @@ You may use the following:
 - inputFileTestC.txt
 - Or, add your own .txt file.
 
-_Note:_
-I wrote the program within the parameters of the most common examples, stated on the two *Project documents* given by the Professor.
-I took each of the C++ examples outlined in those *Project documents* and put them respectively into: inputFileTestA, inputFileTestB, inputFileTestC.
-This is NOT an exhaustive program meant to cover *everything* in the C++ library, nor is it meant to!
-Therefore, by adding your own .txt file, my program may not include ALL test cases and situations.
+_Notes:_
+- I wrote the program within the parameters of the most common examples, stated on the two *Project documents* given by the Professor.
+- I took each of the C++ examples outlined in those *Project documents* and put them respectively into: *inputFileTestA*, *inputFileTestB*, *inputFileTestC*.
+- This is NOT an exhaustive program meant to cover *everything* in the C++ library, nor is it meant to!
+- Therefore, by adding your own .txt file, my program may not include ALL test cases and situations.

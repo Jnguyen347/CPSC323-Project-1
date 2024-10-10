@@ -6,7 +6,7 @@ Hello, and welcome to my repository for CPSC 323 (Compilers): Project #1.
 In the Main.cpp file, on this line here:
 - **std::fstream inputFile("[INSERT TXT FILE NAME HERE.txt");**
 
-You may use the following:
+You may edit/use the following:
 - inputFileTestA.txt (*already included in Main.cpp*)
 - inputFileTestB.txt
 - inputFileTestC.txt

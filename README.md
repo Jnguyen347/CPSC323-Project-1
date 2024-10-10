@@ -1,7 +1,7 @@
 **Name:** James Nguyen
 
 # CPSC 323: Project #1
-This is my repository for CPSC 323 (Compilers): Project #1.
+Hello, and welcome to my repository for CPSC 323 (Compilers): Project #1.
 
 In the Main.cpp file, on this line here:
 - **std::fstream inputFile("[INSERT TXT FILE NAME HERE.txt");**

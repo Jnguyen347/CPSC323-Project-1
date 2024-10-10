@@ -16,11 +16,11 @@ TOTAL:			57
 input Test File B
 /////////////////
 
-Keywords		void int return				3
-Identifiers		greet cout endl main greet		5
-Operators		<< <<					2
-Delimiters		(){;}(){();;}				13
-Literals		"Hello!" 0				2
+Keywords		void int return					3
+Identifiers		greet cout endl main greet			5
+Operators		<< <<						2
+Delimiters		(){;}(){();;}					13
+Literals		"Hello!" 0					2
 ==============================================================================
 TOTAL			25
 ==============================================================================

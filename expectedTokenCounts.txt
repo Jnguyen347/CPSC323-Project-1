@@ -1,0 +1,38 @@
+input Test File A
+/////////////////
+Keywords		using namespace int int int return		11
+			int int int int return				
+Identifiers		std calculate_sum a b a b main			16
+			num1 num2 result calculate_sum			
+			num1 num2 cout result endl			
+Operators		+ = = = << << <<				7
+Delimiters		;(,){;}(){;;(,);;;}				19
+Literals		10 20 "..." 0					4
+==============================================================================
+TOTAL:			57				
+==============================================================================
+
+
+input Test File B
+/////////////////
+
+Keywords		void int return				3
+Identifiers		greet cout endl main greet		5
+Operators		<< <<					2
+Delimiters		(){;}(){();;}				13
+Literals		"Hello!" 0				2
+==============================================================================
+TOTAL			25
+==============================================================================
+
+
+input Test File C
+/////////////////
+Keywords		int int if else return				5
+Identifiers		main number number cout endl cout endl		7
+Operators		= > << << << <<					6
+Delimiters		(){;(){;}{;};}					14
+Literals		10 5 "..." "..." 0				5
+==============================================================================
+TOTAL			37	
+==============================================================================

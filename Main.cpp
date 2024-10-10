@@ -8,7 +8,7 @@
 int main()
 {
     // INPUT FILE NAME HERE
-    std::fstream inputFile("inputTestFile A.txt");
+    std::fstream inputFile("inputTestFileA.txt");
 
     if (!inputFile.is_open()) {
         std::cerr << "Error opening this file!\n";

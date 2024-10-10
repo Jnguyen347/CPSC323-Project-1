@@ -4,8 +4,8 @@
 This is my repository for CPSC 323 (Compilers): Project #1.
 This assignment is due: Thursday, October 10th.
 
-In the Main.cpp file located here:
-**std::fstream inputFile("[INSERT TXT FILE NAME HERE.txt");**
+In the Main.cpp file, on this line here:
+- **std::fstream inputFile("[INSERT TXT FILE NAME HERE.txt");**
 
 You may use the following:
 - inputFileTestA.txt (*already included in Main.cpp*)

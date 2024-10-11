@@ -19,9 +19,9 @@ _Notes:_
 - Therefore, by adding your own .txt file, understand that my program may not include ALL test cases and situations.
 
 _Video Test Demo_ (Timestamps)
-- Explaining Main.h (Header)	START OF VIDEO - 1:44
-- Explaining Main.cpp (CPP)	1:44 - 6:21
-- Test Demo: inputTestFileA	6:21 - 7:38
-- Test Demo: inputTestFileB	7:38 - 8:02
-- Test Demo: inputTestFileB	8:02 - 8:30
-- Conclusion			8:30 - END OF VIDEO
+- Explaining Main.h (Header): **START OF VIDEO - 1:44**
+- Explaining Main.cpp (CPP): **1:44 - 6:21**
+- Test Demo: inputTestFileA: **6:21 - 7:38**
+- Test Demo: inputTestFileB: 	**7:38 - 8:02**
+- Test Demo: inputTestFileB: **8:02 - 8:30**
+- Conclusion: **8:30 - END OF VIDEO**
